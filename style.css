@@ -7,14 +7,13 @@
 header {
     background-color: #FFE9E8;
     height: 60vh;
-    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
 }
 
 img {
-    height: 35vh;
+    height: 30vh;
 }
 
 span{
@@ -57,7 +56,6 @@ p {
 
 .contagem{
     height: 70vh;
-    width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -72,7 +70,6 @@ h3{
 
 .doe{
     height: 60vh;
-    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -80,7 +77,6 @@ h3{
 
 footer{
     height: 10vh;
-    width: 100vw;
     background-color: #FFE9E8;
     display: flex;
     justify-content: space-evenly;
